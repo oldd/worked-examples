@@ -1,0 +1,39 @@
+function move_letters(index_1, index_2, str) {
+	let returner = new_str;
+
+	// do stuff
+
+	return new_str;
+};
+
+function exchange_letters(index, str_1, str_2) {
+	let returner = new_str;
+
+	// do stuff
+
+	return new_str;
+};
+
+function remove_letter(index, str) {
+	let returner = new_str;
+
+	// do stuff
+
+	return new_str;
+};
+
+// take two strings and swap them after the i'th index
+function chimerize(index, str_1, str_2) {
+	let returner = []; // will contain two strings
+
+	let new_str_1 = '';
+	// build first new string
+	returner.push(new_str_1);
+
+	let new_str_2 = '';
+	// build second new string
+	returner.push(new_str_2);
+
+	return returner; // will contain two strings
+};
+
